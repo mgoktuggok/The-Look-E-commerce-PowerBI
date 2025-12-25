@@ -1,4 +1,4 @@
-# Olist / The Look E-Commerce Analytics Dashboard (Power BI)
+# The Look E-Commerce Analytics Dashboard (Power BI)
 
 ## 📌 Project Overview
 This project is a **group-based Power BI analytics project** built on an e-commerce dataset (Olist / The Look).
